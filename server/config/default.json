@@ -1,0 +1,6 @@
+{
+    "serverPort" : 5000,
+    "dbUrl_1": "mongodb+srv://Igop:cgR4VKUz5BXHzRaZ@cloud.nag1i.mongodb.net/cloud?retryWrites=true&w=majority",
+    "dbUrl":"mongodb+srv://Igop:cgR4VKUz5BXHzRaZ@cloud.zpesn.mongodb.net/cloud?retryWrites=true&w=majority",
+    "secretKey": "my-key"
+}
